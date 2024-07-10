@@ -13,12 +13,12 @@ The goal of this project is to perform a detailed analysis of the Superstone sal
 - Sales Analysis: In this step, I use the reports and dashboards created in the previous step to analyze the Superstore sales data. I explore the sales data by product categories, customer segments, and regions to identify trends and insights that can help Superstone improve its sales performance.
 
 ## Business Questions
-Q1. Which segment is best seller?
-Q2. Analysing sales profit by each Category over the year 2011–2014
-Q3. Which sub-categories sell the most?
-Q4. Who are the Top 10 Customers of the Superstore?
-Q5. What are the Top 10 States with highest number of orders?
-Q6. What is the most profitable region?
-Q7. What are the top 10 most selling Products?
-Q8. What is the most preferred Ship Mode?
+1. Which segment is best seller?
+2. Analysing sales profit by each Category over the year 2011–2014
+3. Which sub-categories sell the most?
+4. Who are the Top 10 Customers of the Superstore?
+5. What are the Top 10 States with the highest number of orders?
+6. What is the most profitable region?
+7. What are the top 10 most selling Products?
+8. What is the most preferred Ship Mode?
 
