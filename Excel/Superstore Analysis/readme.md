@@ -23,9 +23,11 @@ The goal of this project is to perform a detailed analysis of the Superstone sal
 8. What is the most preferred Ship Mode?
 
 ## Data Preparation and Cleansing
-Two common data cleaning tasks are performed on the dataset. The first involves identifying NULL or missing values, while the second entails checking for any duplicated records. Excel offers built-in features for both of these tasks. To address the first task, the “Go To” feature is used to locate blank cells. It can be accessed by navigating to Home > Find & Select > Go To Special in the ribbon. Subsequently, choose the Blanks option from the Go To Special pop-up window and click OK to apply the selection.
+Two common data cleaning tasks are performed on the dataset. Common issues such as identifying missing data(empty cells), misspellings, duplicate data were sorted to ensure the integrity of the data. Excel offers built-in features for both of these tasks. To address the first task, the “Go To” feature is used to locate blank cells. It can be accessed by navigating to Home > Find & Select > Go To Special in the ribbon. Subsequently, choose the Blanks option from the Go To Special pop-up window and click OK to apply the selection. Columns were formatted with prices set to the currency, order and ship dates columns set to the short date format and others converted to correlate with their corresponding data types.
 
 For the second task, the “Remove Duplicates” feature is utilized to check and eliminate any duplicated rows from the dataset. To do this, navigate to Data > Remove Duplicates in the Data Tools group.
 
 The result indicates that no duplicate values were found.
+
+## Exploratory Data Analysis
 
