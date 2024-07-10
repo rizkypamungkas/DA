@@ -14,8 +14,11 @@ The goal of this project is to perform a detailed analysis of the Superstone sal
 
 ## Business Questions
 Q1. Which segment is best seller?
+
 Q2. Analysing sales profit by each Category over the year 2011–2014
+
 Q3. Which sub-categories sell the most?
+
 Q4. Who are the Top 10 Customers of the Superstore?
 Q5. What are the Top 10 States with highest number of orders?
 Q6. What is the most profitable region?
