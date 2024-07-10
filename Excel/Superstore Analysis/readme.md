@@ -6,4 +6,8 @@ Superstores retail businesses of various sizes, ranging from small to large, off
 ## Main Goals
 The goal of this project is to perform a detailed analysis of the Superstone sales dataset using Microsoft Excel. Superstore is a fictional company that sells various products, including furniture, office supplies, and technology equipment. The dataset includes information on customer demographics, product categories, sales amounts, and other related information.
 
-
+## Key Steps in This Project
+- Data Preparation and Cleansing: In this step, i imported the Superstore sales dataset into Microsoft Excel and performed some data preparation and cleansing tasks to ensure the data was accurate and consistent.
+- Pivot Tables: Utilize pivot tables to summarize and analyze data for visualization.
+- Visualizations and Dashboard Creation: Build visualizations using recommended charts to represent key insights.
+- Sales Analysis: In this step, I use the reports and dashboards created in the previous step to analyze the Superstore sales data. I explore the sales data by product categories, customer segments, and regions to identify trends and insights that can help Superstone improve its sales performance.
