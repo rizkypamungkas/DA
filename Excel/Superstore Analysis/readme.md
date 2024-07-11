@@ -39,12 +39,15 @@ From the "Top Segment" bar graph, it can be seen that the "Consumer" segment dom
 The company may consider expanding product offerings or marketing strategies aimed at the Consumer segment to maintain and increase sales.
 
 Q2. Which sub-categories sell the most?
+
 This sub-category shows that products related to organisation and storage are in high demand. This could be due to the ongoing needs of offices and schools. Increasing the variety of products in this sub-category, offering bundling or saving packages, as well as providing special promotions can boost sales further. In addition, identifying seasonal trends or specific needs can help in optimising stock and product offerings.
 
 Q3. What are top 10 selling products?
+
 Based on the sales analysis findings, it is evident that almost all the products in the top 5 list fall under the Office Supplies category. This correlates with the second top segment, which is corporate. Products such as Staples, Cardinal Index Tab, Clear, Eblon Flar Clic, Single Width, Rogers File Cart, Single Width, and Sanford Pencil Sharpener, Value Pack are mainstays in fulfilling daily operational needs in the work environment. High sales may also come from individual consumers such as students who need the products for their daily activities while the corporate segment tends to buy in bulk for use by their employees.
 
 Q8. What is the most preferred Ship Mode?
+
 Standard Class being the top choice is probably due to the balance between lower shipping costs and acceptable delivery times. This shows that customers tend to look for economical yet efficient options to receive their goods.
 
 
