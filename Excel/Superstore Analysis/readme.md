@@ -32,7 +32,7 @@ The result indicates that no duplicate values were found.
 ## Exploratory Data Analysis
 In this section, pivot tables are extensively utilized to quickly extract, summarize, and report the findings for the business questions. The analyzed data is also visualized through various Excel charts.
 
-1. Which segment is best seller?
+Q1. Which segment is best seller?
    
 From the "Top Segment" bar graph, it can be seen that the "Consumer" segment dominates with sales reaching around 6,800,000. The "Corporate" segment comes in second with sales of around 4,000,000, while the "Home Office" segment has the least sales, at around 2,000,00.
 
