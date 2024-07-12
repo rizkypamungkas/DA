@@ -54,6 +54,16 @@ Q3. What are top 10 selling products?
 
 Based on the sales analysis findings, it is evident that almost all the products in the top 5 list fall under the Office Supplies category. This correlates with the second top segment, which is corporate. Products such as Staples, Cardinal Index Tab, Clear, Eblon Flar Clic, Single Width, Rogers File Cart, Single Width, and Sanford Pencil Sharpener, Value Pack are mainstays in fulfilling daily operational needs in the work environment. High sales may also come from individual consumers such as students who need the products for their daily activities while the corporate segment tends to buy in bulk for use by their employees.
 
+QX. What are the Top 10 States with highest profit?
+
+Four of the top ten states with the highest profits are in the United States, namely California, New York, Washington, and Michigan, indicating that these states are in very high demand and a highly potential market. 
+
+The rest of the states on this list come from various countries, including the UK with regions such as England, France with Île-de-France, Germany with North Rhine-Westphalia, and Australia with New South Wales and Queensland. In addition, there is one state from El Salvador, San Salvador, which also shows considerable market potential despite being located in Central America.
+
+QX. Top 10 Consumer Countries
+
+Although England was recorded as the most profitable state, the United Kingdom could not beat the United States as the most profitable country in this regard. When viewed from the perspective of the country as a whole, this may be due to a more varied distribution of customers among the various states in the United States, as well as a larger population compared to the United Kingdom.
+
 Q8. What is the most preferred Ship Mode?
 
 Standard Class being the top choice is probably due to the balance between lower shipping costs and acceptable delivery times. This shows that customers tend to look for economical yet efficient options to receive their goods.
