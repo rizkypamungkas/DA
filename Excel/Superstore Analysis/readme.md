@@ -87,7 +87,7 @@ Q11. What is the most preferred Ship Mode?
 
 Standard Class being the top choice is probably due to the balance between lower shipping costs and acceptable delivery times. This shows that customers tend to look for economical yet efficient options to receive their goods.
 
-To - do list to business recomendation:
+## Strategy business recommendations
 1. Consumer Segment Expansion:
 Focus on expanding product offerings and marketing strategies targeted at the "Consumer" segment to maintain and increase sales.
 
@@ -106,7 +106,7 @@ Review pricing and marketing strategies for loss-making products, and consider p
 6. Focus on High Potential Regions:
 Expand marketing and distribution efforts in the highest-profit states and regions, and focus on business development in Canadian territories to optimize market potential.
 
-7.Retain Loyal Customers:
+7. Retain Loyal Customers:
 Maintain good relationships with loyal customers through superior customer service, expand the range of products in demand, and create more targeted marketing strategies, including special promotions and loyalty rewards.
 
 8. Shipping Method Optimization:
