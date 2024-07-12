@@ -46,9 +46,13 @@ The company may consider expanding product offerings or marketing strategies aim
 
 Q2. What is the year-on-year growth trend in profits and losses?
 
+<img src="https://drive.google.com/uc?id=1p7__eTTFhzsBBCFW7wA_JDNYsOzvIhyV" alt="Logo Proyek" width="400" height="300">
+
 Based on the visualisation, there was a consistent positive trend in superstore profits and a decrease in losses from 2011 to 2014. Profit increased sharply from around 450,000 in 2011 to 800,000 in 2014, indicating improved operational efficiency and a successful business strategy. In contrast, loss decreased from -400,000 to -300,000, reflecting the superstore's ability to gradually reduce losses. This trend shows that the superstores are able to adapt well to market changes and customer needs, and continue to grow sustainably.
 
 Q3. Analysis sales profit by each category over the year 2011 - 2014.
+
+<img src="https://drive.google.com/uc?id=1x-gfXd4SspMH5AOl3-sZ_Z4tUnHRZBTK" alt="Logo Proyek" width="400" height="300">
 
 Furniture: This category showed steady growth year-on-year, with a significant increase in 2014. This could indicate an increase in demand or a better sales strategy that year.
 
@@ -58,17 +62,25 @@ Technology: This category has consistently had the highest profits every year. T
 
 Q4. Which sub-categories sell the most?
 
+<img src="https://drive.google.com/uc?id=1App66DW1aIceIGpSwzfxzHw5QtmJqnqq" alt="Logo Proyek" width="400" height="300">
+
 This sub-category shows that products related to organisation and storage are in high demand. This could be due to the ongoing needs of offices and schools. Increasing the variety of products in this sub-category, offering bundling or saving packages, as well as providing special promotions can boost sales further. In addition, identifying seasonal trends or specific needs can help in optimising stock and product offerings.
 
 Q5. What are top 10 selling products?
+
+<img src="https://drive.google.com/uc?id=1SLJ47ASH2-UWW1weaLfoSTPsh45eoup6" alt="Logo Proyek" width="400" height="300">
 
 Based on the sales analysis findings, it is evident that almost all the products in the top 5 list fall under the Office Supplies category. This correlates with the second top segment, which is corporate. Products such as Staples, Cardinal Index Tab, Clear, Eblon Flar Clic, Single Width, Rogers File Cart, Single Width, and Sanford Pencil Sharpener, Value Pack are mainstays in fulfilling daily operational needs in the work environment. High sales may also come from individual consumers such as students who need the products for their daily activities while the corporate segment tends to buy in bulk for use by their employees.
 
 Q6. What products have suffered losses?
 
+<img src="https://drive.google.com/uc?id=1UxUKrqZTBqfOZEwPHpof0s_SQnq9U_7e" alt="Logo Proyek" width="400" height="300">
+
 This list provides information on products that have incurred heavy losses, which may require improvement strategies or further evaluation to reduce future losses. To address this, companies need to conduct a thorough review of their pricing strategy and appropriate marketing efforts. Product innovation can also be a solution by increasing added value and appeal to consumers. Also consider reducing stocks of products that have underperformed sales to reduce losses.
 
 Q7. What are the Top 10 States with highest profit?
+
+<img src="https://drive.google.com/uc?id=1wgr2pGjQSLJ0yQp6LlH5w-8Y4I2yhQ56" alt="Logo Proyek" width="400" height="300">
 
 Four of the top ten states with the highest profits are in the United States, namely California, New York, Washington, and Michigan, indicating that these states are in very high demand and a highly potential market. 
 
@@ -76,17 +88,25 @@ The rest of the states on this list come from various countries, including the U
 
 Q8. Top 10 Consumer Countries
 
+<img src="https://drive.google.com/uc?id=1cFYMnJTY3NVePby2ZfYwkib2tRzxq3CU" alt="Logo Proyek" width="400" height="300">
+
 Although England was recorded as the most profitable state, the United Kingdom could not beat the United States as the most profitable country in this regard. When viewed from the perspective of the country as a whole, this may be due to a more varied distribution of customers among the various states in the United States, as well as a larger population compared to the United Kingdom.
 
 Q9. Which region had the highest profit in the last year?
+
+
 
 The Central Region recorded the highest total sales among all regions in the last year of 2014. However, there are challenges in the very slow business growth in the Canadian region. Therefore, the business team needs to put greater focus on growing the business in the region. This move is expected to optimise the market potential in Canada and increase Superstore's overall contribution in the long run.
 
 Q10. Who are the loyal customers at the Superstore?
 
+<img src="https://drive.google.com/uc?id=1SpfN3UF3kQp0eDwXWd2p1qUKifBXHRCt" alt="Logo Proyek" width="400" height="300">
+
 These customers have shown high loyalty to the company's products by placing large orders. Future strategies can focus on maintaining good relationships with these customers through superior customer service, as well as expanding the range of products they are interested in. Better identifying their preferences can help in crafting more targeted marketing strategies, including special promotions and rewards for their loyalty.
 
 Q11. What is the most preferred Ship Mode?
+
+<img src="https://drive.google.com/uc?id=12CdC2nvDvl631MEG2vWeRu2azJkaBYhG" alt="Logo Proyek" width="400" height="300">
 
 Standard Class being the top choice is probably due to the balance between lower shipping costs and acceptable delivery times. This shows that customers tend to look for economical yet efficient options to receive their goods.
 
@@ -115,6 +135,7 @@ Maintain good relationships with loyal customers through superior customer servi
 8. Shipping Method Optimization:
 Maintain Standard Class shipping options and consider improving shipping efficiency to meet the preferences of customers looking for economical yet efficient options.
 
+<img src="https://drive.google.com/uc?id=1ZL-XAlVaxScZyH0_OTT85dzWmvTvCYKt" alt="Logo Proyek" width="1000" height="800">
 
 
 
