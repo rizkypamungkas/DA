@@ -38,6 +38,14 @@ From the "Top Segment" bar graph, it can be seen that the "Consumer" segment dom
 
 The company may consider expanding product offerings or marketing strategies aimed at the Consumer segment to maintain and increase sales.
 
+Q2. Analysis sales profit by each category over the year 2011 - 2014.
+
+Furniture: This category showed steady growth year-on-year, with a significant increase in 2014. This could indicate an increase in demand or a better sales strategy that year.
+
+Office Supplies: Although the growth was not as large as the other two categories, this category still showed a consistent increase. This indicates stability and continued demand in this category.
+
+Technology: This category has consistently had the highest profits every year. This trend shows that technology is the most profitable sector, likely due to continued innovation and high market demand.
+
 Q2. Which sub-categories sell the most?
 
 This sub-category shows that products related to organisation and storage are in high demand. This could be due to the ongoing needs of offices and schools. Increasing the variety of products in this sub-category, offering bundling or saving packages, as well as providing special promotions can boost sales further. In addition, identifying seasonal trends or specific needs can help in optimising stock and product offerings.
